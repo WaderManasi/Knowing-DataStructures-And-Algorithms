@@ -1,5 +1,6 @@
 /*
-Given a positive integer N. You have to find Nth natural number after removing all the numbers containing digit 9 .
+Given a positive integer N.
+You have to find Nth natural number after removing all the numbers containing digit 9.
 */
 
 class Solution{
