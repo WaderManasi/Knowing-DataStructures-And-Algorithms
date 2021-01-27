@@ -12,8 +12,7 @@ class Solution{
        {
            ans+=(ct*(N%9));
            N=N/9;
-           ct=ct*10;
-           
+           ct=ct*10;   
        }
        return ans;
     }
