@@ -1,4 +1,4 @@
-//solution
+//Solution
 class Solution{
 
 	public:
