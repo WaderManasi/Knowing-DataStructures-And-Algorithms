@@ -1,3 +1,5 @@
+// Given 2 sorted arrays Ar1 and Ar2 of size N each. Merge the given arrays and find the sum of the two middle elements of the merged array.
+
 class Solution {
 public:
     int findMidSum(int ar1[], int ar2[], int n) {
