@@ -1,3 +1,5 @@
+//optimized solution to find prime number
+public class solution{
 public:
     int isPrime(int no){
         if (no == 2)
