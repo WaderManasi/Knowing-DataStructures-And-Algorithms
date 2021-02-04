@@ -1,3 +1,5 @@
+// Given a natural number N, the task is to find the sum of the divisors of all the divisors of N.
+
 //User function Template for C++
 class Solution
 {
