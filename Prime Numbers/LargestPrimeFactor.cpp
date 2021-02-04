@@ -1,4 +1,5 @@
-// Given a number N, the task is to find the largest prime factor of that number.
+// Given a number N, 
+// the task is to find the largest prime factor of that number.
 
 class Solution
 {
