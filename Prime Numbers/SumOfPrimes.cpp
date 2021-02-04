@@ -1,3 +1,5 @@
+// Your task is to calculate sum  of primes present as digits of given number N.
+
 class Solution{
 public:
     int isPrime(int no)
