@@ -1,3 +1,5 @@
+// Given a number N find the product of all unique prime factors of that number.
+
 class Solution
 {
 public:
