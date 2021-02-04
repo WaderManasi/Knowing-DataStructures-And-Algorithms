@@ -11,11 +11,9 @@ public:
         int flag=0;
         for(int i=2;i<no;i++)
         {
-            //cout<<no%i<<"mod  ";
             if(no%i == 0)
             flag=1;
         }
-        //cout<<flag<<"f \n";
         return flag==1?0:1;
     }
     int primeSum(int N){
