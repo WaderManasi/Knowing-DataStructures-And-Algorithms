@@ -1,5 +1,5 @@
-// Given a number N, find least prime factors for all numbers from 1 to N.  The least prime factor of an integer N is the smallest prime number that divides it.
-// Note : The least prime factor of all even numbers is 2. A prime number is its own least prime factor (as well as its own greatest prime factor).1 needs to be printed for 1.â€‹
+Given a number N, find least prime factors for all numbers from 1 to N.  The least prime factor of an integer N is the smallest prime number that divides it.
+Note : The least prime factor of all even numbers is 2. A prime number is its own least prime factor (as well as its own greatest prime factor).1 needs to be printed for 1.â€‹
 
 class Solution {
   public:
