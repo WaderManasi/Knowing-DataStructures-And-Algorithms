@@ -1,3 +1,5 @@
+Given a string of lowercase characters from ‘a’ – ‘z’. We need to write a program to print the characters of this string in sorted order.
+
 #include <bits/stdc++.h>
 using namespace std;
 
