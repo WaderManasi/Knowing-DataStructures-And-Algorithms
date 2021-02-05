@@ -1,5 +1,6 @@
 // Given a number N. Find its unique prime factors in increasing order.
 
+//solution:
 class Solution{
 	public:
 	bool isPrime(int n)
