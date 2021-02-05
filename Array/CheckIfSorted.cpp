@@ -1,3 +1,5 @@
+//Given an array arr[] of size N, check if it is sorted in non-decreasing order or not. 
+
 bool arraySortedOrNot(int arr[], int n) {
     int flag=0;
     for(int i=0;i<n-1;i++)
