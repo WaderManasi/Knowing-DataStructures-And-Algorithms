@@ -1,3 +1,4 @@
+Print all prime factors and their powers separated by spaces.  The output should be printed in increasing order of prime factors.
 #include <bits/stdc++.h>
 using namespace std;
 
