@@ -1,5 +1,6 @@
 // Given a sorted array A of size N, delete all the duplicates elements from A.
 
+//Solution:
 class Solution{
 public:
     int remove_duplicate(int a[],int n){
