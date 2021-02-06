@@ -12,6 +12,7 @@
 // 1                                    1
 // 2                                    3
 
+//Solution:
 class Solution {
   public:
     int revCoding(int n, int m) {
