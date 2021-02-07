@@ -1,6 +1,7 @@
 // Given an array of positive integers and an integer.
 // Determine whether or not there exist two elements in A whose sum is exactly equal to that integer.
 
+//Solution:
 
 // A[] : the input array of positive integers
 // N : size of the array arr[]
