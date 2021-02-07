@@ -1,5 +1,5 @@
-Hashing is very useful to keep track of the frequency of the elements in a list.
-You are given an array of integers. You need to print the non-repeated elements as they appear in the array.
+// Hashing is very useful to keep track of the frequency of the elements in a list.
+// You are given an array of integers. You need to print the non-repeated elements as they appear in the array.
 
 // Function to print the non repeated elements in the array
 // arr[]: input array
