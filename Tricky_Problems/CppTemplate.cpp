@@ -1,3 +1,4 @@
+//SOlution:
 
 template <class T>
 class minElement
