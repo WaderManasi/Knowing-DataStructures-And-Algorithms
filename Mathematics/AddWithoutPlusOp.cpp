@@ -1,3 +1,6 @@
+Given two integers a and b.
+Find the sum of two numbers without using arithmetic operators.
+
 class Solution
 {
     public:
