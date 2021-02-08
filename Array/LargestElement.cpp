@@ -1,5 +1,5 @@
-Given an array A[] of size n.
-The task is to find the largest element in it.
+// Given an array A[] of size n.
+// The task is to find the largest element in it.
 
 // C function to find maximum in arr[] of size n
 int largest(int arr[], int n) {
