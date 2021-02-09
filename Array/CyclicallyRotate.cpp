@@ -1,6 +1,7 @@
 //Given an array,
- rotate the array by one position in clock-wise direction
+//Rotate the array by one position in clock-wise direction
 
+//solution:
 void rotate(int arr[], int n)
 {
     int temp = arr[n-1];
