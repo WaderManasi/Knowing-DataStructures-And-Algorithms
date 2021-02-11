@@ -1,4 +1,4 @@
-//both solutions
+//Leetcode solutions
 
 class Solution {
 public:
