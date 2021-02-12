@@ -1,5 +1,6 @@
 // Given two binary strings A and B that represent value of two integers, find the product of two strings in Decimal Value.
 
+//Solution:
 class Solution {
   public:
     long long int karatsubaAlgo(string A, string B) {
