@@ -1,4 +1,4 @@
-Given two binary strings A and B that represent value of two integers, find the product of two strings in Decimal Value.
+// Given two binary strings A and B that represent value of two integers, find the product of two strings in Decimal Value.
 
 class Solution {
   public:
