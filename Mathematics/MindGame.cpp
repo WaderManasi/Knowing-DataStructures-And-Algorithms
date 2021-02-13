@@ -1,4 +1,4 @@
-Someone is asked to perform the following operations on a randomly chosen number between 1 and 10.
+// Someone is asked to perform the following operations on a randomly chosen number between 1 and 10.
 
 class Solution {
   public:
