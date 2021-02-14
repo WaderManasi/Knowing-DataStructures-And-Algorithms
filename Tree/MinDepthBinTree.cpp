@@ -1,3 +1,5 @@
+// Given a binary tree, find its minimum depth.
+
 /*You are required to complete this method*/
 int minDepth(Node *node) {
     //empty tree
