@@ -1,6 +1,6 @@
 Given two polynomials represented by two arrays that contains the coefficients of poynomials, returns the polynomial in form of array formed after multiplication of given polynomials
 
-//User function Template for C++
+//Solution:
 class Solution{
     public:
     vector<int>polyMultiply(int Arr1[], int Arr2[], int M, int N)
