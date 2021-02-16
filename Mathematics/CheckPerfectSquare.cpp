@@ -1,3 +1,5 @@
+Given a positive integer n, check if it is perfect square or not.
+
 // User function Template for C++
 class Solution {
   public:
