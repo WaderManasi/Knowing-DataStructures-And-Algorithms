@@ -1,3 +1,5 @@
+// Given an integer, the task is to find factorial of the number.
+
 #include <bits/stdc++.h>
 #include<boost/multiprecision/cpp_int.hpp>
 using namespace std;
