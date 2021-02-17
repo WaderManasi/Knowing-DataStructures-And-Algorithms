@@ -1,6 +1,6 @@
 // Given an integer, the task is to find factorial of the number.
 
-//Using boost library in c++
+//Using boost library in c++ for larger datatype
 #include <bits/stdc++.h>
 #include<boost/multiprecision/cpp_int.hpp>
 using namespace std;
