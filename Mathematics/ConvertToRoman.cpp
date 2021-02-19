@@ -1,3 +1,6 @@
+Given an integer n, your task is to complete the function convertToRoman which prints the corresponding roman number of n.
+Various symbols and their values are given below.
+
 string convertToRoman(int n) 
 {
     int roman[18]={1000,900,500,400,100,90,50,40,10,9,8,7,6,5,4,3,2,1};
