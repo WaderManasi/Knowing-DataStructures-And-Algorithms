@@ -1,3 +1,8 @@
+// Implement a Queue using 2 stacks s1 and s2 .
+// A Query Q is of 2 Types
+// (i) 1 x (a query of this type means  pushing 'x' into the queue)
+// (ii) 2   (a query of this type means to pop element from queue and print the poped element)
+
 /* The method push to push element into the queue */
 void StackQueue :: push(int x)
  {
