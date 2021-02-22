@@ -1,5 +1,5 @@
-Your task  is to implement the function atoi.
-The function takes a string(str) as argument and converts it to an integer and returns it.
+// Your task  is to implement the function atoi.
+// The function takes a string(str) as argument and converts it to an integer and returns it.
 
 int atoi(string str)
 {
