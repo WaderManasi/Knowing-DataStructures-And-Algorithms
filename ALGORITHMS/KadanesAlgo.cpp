@@ -1,5 +1,6 @@
 // Given an array arr of N integers. Find the contiguous sub-array with maximum sum.
 
+// Solution:
 // Function to find subarray with maximum sum
 // arr: input array
 // n: size of array
