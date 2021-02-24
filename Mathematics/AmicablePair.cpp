@@ -1,3 +1,5 @@
+//Solution:
+
 class Solution {
   public:
     int isAmicable(int A , int B) {
