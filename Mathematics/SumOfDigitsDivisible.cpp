@@ -1,3 +1,6 @@
+Given a number N.
+Check whether it is divisible by the sum of its digits or not.
+
 class Solution {
   public:
     int isDivisible(int N) {
