@@ -1,4 +1,5 @@
 #solution:
+
 class Solution:
     def commDiv (self, a, b):
         s1=set()
