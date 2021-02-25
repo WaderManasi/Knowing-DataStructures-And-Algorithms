@@ -1,5 +1,5 @@
-Given a number N.
-Print the minimum positive integer by which it should be divided so that the result is an odd number.
+// Given a number N.
+// Print the minimum positive integer by which it should be divided so that the result is an odd number.
 
 class Solution
 {
