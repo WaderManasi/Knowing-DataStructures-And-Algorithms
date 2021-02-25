@@ -1,6 +1,7 @@
 // Given a number N. Check whether it is a magic number or not.
 // Note:- A number is said to be a magic number, if the sum of its digits are calculated till a single digit recursively by adding the sum of the digits after every addition and the single digit comes out to be 1.
 
+// Solution:
 class Solution {
   public:
     int getsum(int n)
