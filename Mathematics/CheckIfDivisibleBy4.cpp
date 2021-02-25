@@ -1,5 +1,5 @@
 //Divisibilty of 4
-
+//SOlution:
 class Solution{
 public:	
 	
