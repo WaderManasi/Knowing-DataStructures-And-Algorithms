@@ -1,3 +1,5 @@
+//Divisibilty of 5
+//SOlution:
 class Solution{
 public:	
 	
