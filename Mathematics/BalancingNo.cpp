@@ -1,6 +1,7 @@
 // Given an integer N which has odd number of digits, find whether the given number is a balanced or not.
 // An odd digit number is called a balanced number if the sum of all digits to the left of the middle digit and the sum of all digits to the right of the middle digit is equal.
 
+// Solution:
 class Solution{
 public:	
 	bool balancedNumber(string N)
