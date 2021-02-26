@@ -1,3 +1,6 @@
+// Given two sorted arrays of sizes N and M respectively.
+// The task is to find the median of the two arrays when they get merged.
+
 // arr : given array with size n 
 // brr : given array with size m
 int findMedian(int arr[], int n, int brr[], int m){
