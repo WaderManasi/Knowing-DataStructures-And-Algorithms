@@ -1,6 +1,7 @@
 // Given a struct array of type Height, having two elements feet and inches.
 // Find the maximum height among n heights, where height is calculated sum of feet and inches after converting feet into inches
 
+//
 int findMax(struct Height arr[], int n)
 {
     int res=-1;
