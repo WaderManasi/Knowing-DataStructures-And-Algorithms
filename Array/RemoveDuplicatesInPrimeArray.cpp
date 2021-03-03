@@ -1,5 +1,5 @@
-Given an array consisting of only prime numbers, remove all duplicate numbers from it. 
-Note: Retain the first occurrence of the duplicate element.
+// Given an array consisting of only prime numbers, remove all duplicate numbers from it. 
+// Note: Retain the first occurrence of the duplicate element.
 
 vector<int> removeDuplicate(vector<int>& arr, int n)
 {
