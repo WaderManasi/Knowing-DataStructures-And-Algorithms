@@ -1,3 +1,5 @@
+// Given an array H representing heights of buildings. You have to count the buildings which will see the sunrise (Assume : Sun rise on the side of array starting point).
+
 class Solution{
 public:	
 	// Returns count buildings that can see sunlight
