@@ -1,3 +1,5 @@
+// Given two arrays A and B contains integers of size N and M, the task is to find numbers which are present in the first array, but not present in the second array.
+
 vector<long long> findMissing(long long A[], long long B[],  
                  int N, int M) 
 	{ 
