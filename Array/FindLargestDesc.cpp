@@ -1,5 +1,5 @@
 // Given an integer N the task is to find the largest number which is smaller or equal to it and has its digits in non-decreasing order.
-
+// Solution:
     bool check(int n)
     {
         int x=n%10; //last digit
