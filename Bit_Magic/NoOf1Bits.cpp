@@ -1,4 +1,4 @@
-Given a positive integer N, print count of set bits in it. 
+// Given a positive integer N, print count of set bits in it. 
 
 int setBits(int N) {
         int ct=0;
