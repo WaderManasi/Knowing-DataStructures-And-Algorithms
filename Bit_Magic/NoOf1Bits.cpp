@@ -1,3 +1,5 @@
+Given a positive integer N, print count of set bits in it. 
+
 int setBits(int N) {
         int ct=0;
         while(N>0)
